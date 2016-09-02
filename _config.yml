@@ -1,19 +1,4 @@
-name: Dagligt
-favicon: null
-layout_spectrum: 0.23461543885059655
 typography_spectrum: 0.0551252334844321
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,19 @@ color:
   lightness: 0.4391193250194192
   saturation: 0.04222774691879749
   rhythmicContrast: 0.6280444383155555
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23461543885059655
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Dagligt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
